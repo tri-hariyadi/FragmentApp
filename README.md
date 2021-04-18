@@ -3,7 +3,7 @@
 
 Untuk Clone Repository :
 ```sh
-git clone https://github.com/tri-hariyadi/project-pertemuan-3.git
+git clone https://github.com/tri-hariyadi/FragmentApp.git
 ```
 
 ## Deployment
